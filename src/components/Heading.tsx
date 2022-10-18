@@ -4,11 +4,14 @@ import { clsx } from 'clsx';
 
 export interface HeadingProps {
   size?: 'sm' | 'md' | 'lg';
+  className?: string;
   children: ReactNode;
   asChild?: boolean;
 }
 
-export function Heading({ size = 'md', asChild, children }: HeadingProps) {
+export function Heading({
+  size = 'md', className, asChild, children
+}: HeadingProps) {
   const Comp = asChild ? Slot : 'h2';
 
   return (
@@ -20,6 +23,7 @@ export function Heading({ size = 'md', asChild, children }: HeadingProps) {
           'text-xl': size === 'md',
           'text-2xl': size === 'lg',
         },
+        className
       )}
     >
       { children }

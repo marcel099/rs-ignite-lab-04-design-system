@@ -21,6 +21,7 @@
 * [Sobre](#sobre)
   * [Conceito](#conceito)
   * [Tecnologias](#principais-tecnologias-utilizadas)
+* [Instalação local](#instalação-local)
 * [Licença](#licença)
 
 ## Sobre
@@ -50,6 +51,10 @@ A aplicação foi desenvolvido em TypeScript. Dentre as tecnologias utilizadas, 
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Radix UI](https://www.radix-ui.com/)
 - [Storybook](https://storybook.js.org/)
+
+## Instalação local
+
+Passos para atingir isso podem ser conferidos <a href="./INSTALLATION.md">neste arquivo</a>.
 
 ## Licença
 

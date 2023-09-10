@@ -19,6 +19,7 @@
 
 * [Índice](#índice)
 * [Sobre](#sobre)
+  * [Tecnologias](#principais-tecnologias-utilizadas)
 * [Licença](#licença)
 
 ## Sobre
@@ -26,6 +27,16 @@
 O projeto foi desenvolvido na quarta edição do evento Ignite Lab, edição também chamada de Ignite Lab Design System, proporcionado pela empresa [Rocketseat](https://rocketseat.com.br/) ao público geral.
 
 O propósito do projeto foi desenvolver um Design System utilizando React, Storyboard e Figma.
+
+### Principais tecnologias utilizadas
+
+O sistema foi desenvolvido em TypeScript. Dentre as tecnologias utilizadas, destaco:
+
+- [Vite](https://vitejs.dev/)
+- [React](https://react.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Radix UI](https://www.radix-ui.com/)
+- [Storybook](https://storybook.js.org/)
 
 ## Licença
 

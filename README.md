@@ -1,6 +1,10 @@
-<h1 align="center"> 
-  Ignite Lab #04 - Design System
+<h1 align="center">
+  <img alt="A imagem contém uma screenshot da tela inicial do site" title="Banner do projeto Ignite Lab Design System" src="./assets/screenshots/banner.png" />
 </h1>
+
+<h4 align="center"> 
+  Ignite Lab #04 - Design System
+</h4>
 
 <div align="center">
   <img src="https://img.shields.io/github/repo-size/marcel099/rs-ignite-lab-04-design-system.svg">

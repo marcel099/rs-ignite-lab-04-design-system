@@ -37,9 +37,9 @@ O propósito do projeto foi desenvolver um Design System e colocá-lo em prátic
 - [Aplicação Web Storybook](https://marcel099.github.io/rs-ignite-lab-04-design-system) para documentação de componentes
 
 <div align="center">
-  <img title="Screenshot da página Components do Figma" alt="Captura de tela da página Components do arquivo de prototipação no Figma." src="./assets/screenshots/figma_components_page.png" width="70%" />
-  <img title="Screenshot da página Colors do Figma" alt="Captura de tela da página Colors do arquivo de prototipação no Figma." src="./assets/screenshots/figma_colors_page.png" width="70%" />
-  <img title="Screenshot do Storybook" alt="Captura de tela da aplicação web Storybook do projeto." src="./assets/screenshots/storybook_screen.png" width="70%" />
+  <img title="Screenshot da página Components do Figma" alt="Captura de tela da página Components do arquivo de prototipação no Figma." src="./assets/screenshots/figma_components_page.png" width="90%" />
+  <img title="Screenshot da página Colors do Figma" alt="Captura de tela da página Colors do arquivo de prototipação no Figma." src="./assets/screenshots/figma_colors_page.png" width="90%" />
+  <img title="Screenshot do Storybook" alt="Captura de tela da aplicação web Storybook do projeto." src="./assets/screenshots/storybook_screen.png" width="90%" />
 </div>
 
 ### Principais tecnologias utilizadas
